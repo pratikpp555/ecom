@@ -40,4 +40,5 @@ public class HelloController {
 	String hello() {
 		return "Hello World"; 
 	}
+	
 }
